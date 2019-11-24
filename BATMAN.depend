@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1574463255 source:/home/eman/Documents/BATMAN/main.cpp
+	<iostream>
+	<BAT.h>
+	<Monitor.h>
+	<unistd.h>
+
+1574462250 /home/eman/Documents/BATMAN/include/BAT.h
+	<iostream>
+	<string>
+	<pthread.h>
+
+1574461178 source:/home/eman/Documents/BATMAN/src/Monitor.cpp
+	"Monitor.h"
+	<BAT.h>
+	<iostream>
+	<unistd.h>
+
+1574206651 /home/eman/Documents/BATMAN/include/Monitor.h
+	<BAT.h>
+
+1574462257 source:/home/eman/Documents/BATMAN/src/BAT.cpp
+	"BAT.h"
+	<iostream>
+	<pthread.h>
+	<Monitor.h>
+	<unistd.h>
+
